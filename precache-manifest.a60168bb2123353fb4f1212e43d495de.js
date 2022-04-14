@@ -24,11 +24,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/img/icons/android-chrome-512x512.png"
   },
   {
-    "revision": "d6342af2e5aef4a2cdc5b39da012852d",
+    "revision": "a27471d7c152559913682b68623e0087",
     "url": "/poker/img/icons/android-chrome-maskable-192x192.png"
   },
   {
-    "revision": "1d18de21bc62da5d9ba5b24d4523624c",
+    "revision": "8feccf36df5cd009017998724b719eaa",
     "url": "/poker/img/icons/android-chrome-maskable-512x512.png"
   },
   {
@@ -48,7 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/img/icons/logo.svg"
   },
   {
-    "revision": "4f2dec8cfce1cb773974267665d9978e",
+    "revision": "d81c25c51dc2d420e321962636fa79f7",
+    "url": "/poker/img/promo.png"
+  },
+  {
+    "revision": "ce0522972e4fcb24e786e5c9cd6d4c78",
     "url": "/poker/index.html"
   },
   {
