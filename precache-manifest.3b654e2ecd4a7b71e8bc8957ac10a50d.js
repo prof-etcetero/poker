@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c0b4072ad771808c1ca",
+    "revision": "e61ae9a048312fffc9ac",
     "url": "/poker/css/app~d0ae3f07.7d1dd63b.css"
   },
   {
-    "revision": "f3d2b4d8fe5f91c4b203",
+    "revision": "59017901a9e6851a4e42",
     "url": "/poker/css/chunk-d3536006.6d89d1db.css"
   },
   {
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/img/promo.png"
   },
   {
-    "revision": "ce0522972e4fcb24e786e5c9cd6d4c78",
+    "revision": "642073b8cfa81d687334a87bbbc8c5b8",
     "url": "/poker/index.html"
   },
   {
-    "revision": "1c0b4072ad771808c1ca",
-    "url": "/poker/js/app~d0ae3f07.7f411130.js"
+    "revision": "e61ae9a048312fffc9ac",
+    "url": "/poker/js/app~d0ae3f07.ddf40fc6.js"
   },
   {
     "revision": "a516fd08d1a60299aa03",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/js/chunk-1b469fe0.f421ed23.js"
   },
   {
-    "revision": "5fced8c28978edf72867",
-    "url": "/poker/js/chunk-2d0c7ca0.932248ee.js"
+    "revision": "a51fc7581105ccb06687",
+    "url": "/poker/js/chunk-2d0c7ca0.b726925b.js"
   },
   {
     "revision": "f74d33ffbce4e7126f76",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/js/chunk-6f5139b6.05c873bc.js"
   },
   {
-    "revision": "f3d2b4d8fe5f91c4b203",
-    "url": "/poker/js/chunk-d3536006.8efa95fe.js"
+    "revision": "59017901a9e6851a4e42",
+    "url": "/poker/js/chunk-d3536006.cd0268bd.js"
   },
   {
     "revision": "b3ec4075f5d3d142cea3",
@@ -102,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b502843e5247b4441d78",
     "url": "/poker/js/chunk-vendors~4a7e9e0b.6a8a9071.js"
+  },
+  {
+    "revision": "19f6e4912f632b74297c",
+    "url": "/poker/js/chunk-vendors~b1f96ece.fa8a091b.js"
   },
   {
     "revision": "1669a9d1ad9e46a05259",
@@ -120,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/js/chunk-vendors~e4173fa2.4117b423.js"
   },
   {
-    "revision": "885a5f6eb8448471b440",
-    "url": "/poker/js/chunk-vendors~f9ca8911.132ad9ec.js"
+    "revision": "9c6fc2aea101b705900c",
+    "url": "/poker/js/chunk-vendors~f9ca8911.47beb863.js"
   },
   {
     "revision": "7e5a635f628053bff285",
