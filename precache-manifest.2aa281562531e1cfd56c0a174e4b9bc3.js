@@ -1,11 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5ba820db065bf87e0fc",
-    "url": "/poker/css/app~d0ae3f07.7d1dd63b.css"
+    "revision": "cf9f76c947fa18f32516c2cb3ebb27e4",
+    "url": "/poker/card-flip.mp3"
   },
   {
-    "revision": "9ddeb088bf8133324a39",
-    "url": "/poker/css/chunk-abe498b0.926092be.css"
+    "revision": "ba452dfe08395f81a44f",
+    "url": "/poker/css/app~d0ae3f07.7bccd7d5.css"
+  },
+  {
+    "revision": "e5f858ccb542eb2a98e9",
+    "url": "/poker/css/chunk-056ae471.3919d36c.css"
+  },
+  {
+    "revision": "97570f5aec84cfd1c51e",
+    "url": "/poker/css/chunk-6d9a3343.5d76b65c.css"
   },
   {
     "revision": "dec24c0ef0a49e7528a7",
@@ -52,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/img/promo.png"
   },
   {
-    "revision": "bec8fc60660e223ff991ab31ec61748c",
+    "revision": "c8bc01aca787a27aaf6195a8859cdb6a",
     "url": "/poker/index.html"
   },
   {
-    "revision": "b5ba820db065bf87e0fc",
-    "url": "/poker/js/app~d0ae3f07.3a2a3ce2.js"
+    "revision": "ba452dfe08395f81a44f",
+    "url": "/poker/js/app~d0ae3f07.6bbd6356.js"
   },
   {
-    "revision": "a516fd08d1a60299aa03",
-    "url": "/poker/js/chunk-14a60960.794f214a.js"
+    "revision": "e5f858ccb542eb2a98e9",
+    "url": "/poker/js/chunk-056ae471.ffe429cc.js"
   },
   {
     "revision": "6470fa38a40379f5894a",
@@ -80,16 +88,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/js/chunk-37e1cec8.e1d35920.js"
   },
   {
+    "revision": "3d4acc2bdf60781e5147",
+    "url": "/poker/js/chunk-3c85c9d6.b5145cd3.js"
+  },
+  {
     "revision": "bb6a5e8d9b83fb036b23",
     "url": "/poker/js/chunk-588296c3.c46de903.js"
   },
   {
-    "revision": "26a3bb7c65313534b6e4",
-    "url": "/poker/js/chunk-6f5139b6.05c873bc.js"
+    "revision": "97570f5aec84cfd1c51e",
+    "url": "/poker/js/chunk-6d9a3343.fb23eded.js"
   },
   {
-    "revision": "9ddeb088bf8133324a39",
-    "url": "/poker/js/chunk-abe498b0.e2428688.js"
+    "revision": "26a3bb7c65313534b6e4",
+    "url": "/poker/js/chunk-6f5139b6.05c873bc.js"
   },
   {
     "revision": "b3ec4075f5d3d142cea3",
