@@ -4,16 +4,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/card-flip.mp3"
   },
   {
-    "revision": "cef9984a5f6bcc25dfe9",
+    "revision": "fd2be4e46d2709ecf8ca",
     "url": "/poker/css/app~d0ae3f07.7bccd7d5.css"
+  },
+  {
+    "revision": "47c08cf1cd8c7d475812",
+    "url": "/poker/css/chunk-048f59ee.c39a87b1.css"
   },
   {
     "revision": "97570f5aec84cfd1c51e",
     "url": "/poker/css/chunk-6d9a3343.5d76b65c.css"
-  },
-  {
-    "revision": "1582775dc21ee97028a6",
-    "url": "/poker/css/chunk-7a595dd8.ab54909f.css"
   },
   {
     "revision": "dec24c0ef0a49e7528a7",
@@ -60,12 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poker/img/promo.png"
   },
   {
-    "revision": "22c01c25f5ee5fde3f812db7bd91626e",
+    "revision": "1290b8234c85dc9d30231e0f1d928364",
     "url": "/poker/index.html"
   },
   {
-    "revision": "cef9984a5f6bcc25dfe9",
-    "url": "/poker/js/app~d0ae3f07.ad8cae77.js"
+    "revision": "fd2be4e46d2709ecf8ca",
+    "url": "/poker/js/app~d0ae3f07.65bb24f0.js"
+  },
+  {
+    "revision": "47c08cf1cd8c7d475812",
+    "url": "/poker/js/chunk-048f59ee.7863d281.js"
   },
   {
     "revision": "6470fa38a40379f5894a",
@@ -98,10 +102,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26a3bb7c65313534b6e4",
     "url": "/poker/js/chunk-6f5139b6.05c873bc.js"
-  },
-  {
-    "revision": "1582775dc21ee97028a6",
-    "url": "/poker/js/chunk-7a595dd8.4ad910cd.js"
   },
   {
     "revision": "b3ec4075f5d3d142cea3",
