@@ -1,4 +1,4 @@
-importScripts("/poker/precache-manifest.cb03e367148c949c86f1a4be2c1aa5d4.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/poker/precache-manifest.4e1aaa17891007e539aeba6212c18b9d.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 workbox.core.setCacheNameDetails({prefix: 'planning-poker'})
 self.__precacheManifest = [].concat(self.__precacheManifest || [])
