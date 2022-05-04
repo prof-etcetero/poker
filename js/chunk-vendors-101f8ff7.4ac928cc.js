@@ -1,4 +1,4 @@
-"use strict";(globalThis["webpackChunkplanning_poker"]=globalThis["webpackChunkplanning_poker"]||[]).push([[461],{4461:(e,t,n)=>{n.d(t,{N8:()=>Go,iH:()=>Mo,jM:()=>Uo});n(1703);var i=n(5659),s=n(7805),r=n(7790),o=n(7366);const a="@firebase/database",h="0.12.8";
+"use strict";(globalThis["webpackChunkplanning_poker"]=globalThis["webpackChunkplanning_poker"]||[]).push([[763],{4461:(e,t,n)=>{n.d(t,{N8:()=>Go,iH:()=>Mo,jM:()=>Uo});n(1703);var i=n(5659),s=n(7805),r=n(1618),o=n(7366);const a="@firebase/database",h="0.12.8";
 /**
  * @license
  * Copyright 2019 Google LLC
